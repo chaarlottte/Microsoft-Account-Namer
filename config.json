@@ -1,0 +1,6 @@
+{
+    "debug": true,
+    "retry_after_fail": true,
+    "safe_mode": false,
+    "multithread": false
+}
